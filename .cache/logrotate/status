@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/k/.cache/upstart/update-notifier-cds.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/indicator-power.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/gpg-agent.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/indicator-sound.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/window-stack-bridge.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/hud.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/indicator-keyboard.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/upstart-event-bridge.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/gnome-keyring-ssh.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/unity7.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/update-notifier-release.log" 2018-7-16-14:0:0
+"/home/k/.cache/upstart/unity-settings-daemon.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/unity-panel-service.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/dbus.log" 2018-7-16-14:58:32
+"/home/k/.cache/upstart/ssh-agent.log" 2018-7-16-14:58:32
